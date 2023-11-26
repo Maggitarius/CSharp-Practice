@@ -1,0 +1,14 @@
+C:\Users\savin\source\repos\Practice7\Practice7\bin\Debug\net6.0\Practice7.exe
+C:\Users\savin\source\repos\Practice7\Practice7\bin\Debug\net6.0\Practice7.deps.json
+C:\Users\savin\source\repos\Practice7\Practice7\bin\Debug\net6.0\Practice7.runtimeconfig.json
+C:\Users\savin\source\repos\Practice7\Practice7\bin\Debug\net6.0\Practice7.dll
+C:\Users\savin\source\repos\Practice7\Practice7\bin\Debug\net6.0\Practice7.pdb
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.AssemblyInfoInputs.cache
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.AssemblyInfo.cs
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.csproj.CoreCompileInputs.cache
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.dll
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\refint\Practice7.dll
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.pdb
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\Practice7.genruntimeconfig.cache
+C:\Users\savin\source\repos\Practice7\Practice7\obj\Debug\net6.0\ref\Practice7.dll
